@@ -1,0 +1,6 @@
+[submodule "aleph-back"]
+	path = aleph-back
+	url = https://github.com/jeremyaldama/aleph-back.git
+[submodule "aleph-front"]
+	path = aleph-front
+	url = https://github.com/jeremyaldama/aleph-front.git
